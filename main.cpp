@@ -2,6 +2,6 @@
 
 int main() {
     UserInterface ui;
-    ui.startApp();
+    ui.startApp(); // Start
     return 0;
 }
